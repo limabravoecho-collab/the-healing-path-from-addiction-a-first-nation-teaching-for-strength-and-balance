@@ -2,6 +2,11 @@
 
 **A Guide for Healers and Those Walking Toward Wellness Rooted in the Wisdom of Our Ancestors**
 
+This is the layout guide. Additional modules for public use:
+
+1. For the Healer
+2. For the Seeker
+
 ---
 
 ## To the Healer
